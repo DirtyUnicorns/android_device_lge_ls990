@@ -5,5 +5,5 @@ $(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 PRODUCT_NAME := du_ls990
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_DEVICE="g3" \
+    PRODUCT_DEVICE="du_ls990" \
     PRODUCT_NAME="g3_spr_us" \
